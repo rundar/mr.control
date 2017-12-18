@@ -1,0 +1,14 @@
+mr.control Copyright / License Information
+========================================
+
+This file is part of the Mr.control software package.
+The copyright is held by the code authors 
+   Armin Rund  (armin.rund@uni-graz.at)
+   Christoph Aigner (christoph.aigner@tugraz.at)
+	 
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, see license_CC_BY-NC.txt, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+	 
+mr.control is distributed WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
