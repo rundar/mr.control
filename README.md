@@ -9,6 +9,11 @@ paper
 by Armin Rund, Christoph Aigner, Karl Kunisch, and Rudolf Stollberger.
 The code implements the diffusion examples.
 
+Authors
+- Armin Rund          (<armin.rund@uni-graz.at>)
+- Christoph Aigner    (<christoph.aigner@tugraz.at>)
+
+
 Introduction
 -------
 The optimization is done jointly for (real-valued) RF and Gs amplitude, as well as
@@ -69,3 +74,20 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 	 
 mr.control is distributed WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Reference
+---------
+R. Armin, C.S. Aigner, K. Kunisch and R. Stollberger  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;*Simultaneous Multislice Refocusing via Time Optimal Control*, <br/>
+&nbsp;&nbsp;&nbsp; submitted, TBA
+
+##### bibtex:
+
+Please cite this work as 
+
+    @article{ mrcontrol,
+       author      = {Rund, Armin and Aigner, Christoph Stefan and Kunisch, Karl and Stollberger, Rudolf},
+       title       = {Simultaneous Multislice Refocusing via Time Optimal Control},
+       journal     = {TBA}
+    }
+
